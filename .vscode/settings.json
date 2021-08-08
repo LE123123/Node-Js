@@ -1,0 +1,8 @@
+//이 프로젝트에만 적용되는 셋팅들
+{
+    "[javascript]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "python.pythonPath": "/usr/bin/python"
+}
